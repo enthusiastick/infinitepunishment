@@ -19,7 +19,7 @@ Icon | Character | Text
 
 Icon | Character | Text
 --- | --- | ---
-![Saint](https://wiki.bloodontheclocktower.com/images/c/c9/Icon_saint.png) | **Saint** | If you die by execution, your team loses.
+![Heretic](https://wiki.bloodontheclocktower.com/images/4/4a/Icon_heretic.png) | **Heretic** | Whoever wins, loses & whoever loses, wins, even if you are dead.
 ![Zealot](https://wiki.bloodontheclocktower.com/images/1/16/Icon_zealot.png) | **Zealot** | If there are 5 or more players alive, you must vote for every nomination.
 
 ### Minion
