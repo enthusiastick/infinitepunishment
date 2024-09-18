@@ -8,10 +8,10 @@
 
 Icon | Character | Text
 --- | --- | ---
+![Steward](https://wiki.bloodontheclocktower.com/images/f/fe/Icon_steward.png) | **Steward** | You start knowing 1 good player.
 ![High Priestess](https://wiki.bloodontheclocktower.com/images/6/63/Icon_highpriestess.png) | **High Priestess** | Each night, learn which player the Storyteller believes you should talk to most.
 ![Preacher](https://wiki.bloodontheclocktower.com/images/8/82/Icon_preacher.png) | **Preacher** | Each night, choose a player: a Minion, if chosen, learns this. All chosen Minions have no ability.
 ![Cult Leader](https://wiki.bloodontheclocktower.com/images/6/6c/Icon_cultleader.png) | **Cult Leader** | Each night, you become the alignment of an alive neighbour. If all good players choose to join your cult, your team wins.
-![King](https://wiki.bloodontheclocktower.com/images/d/dc/Icon_king.png) | **King** | Each night, if the dead equal or outnumber the living, you learn 1 alive character. The Demon knows who you are.
 ![Monk](https://wiki.bloodontheclocktower.com/images/7/7c/Icon_monk.png) | **Monk** | Each night\*, choose a player (not yourself): they are safe from the Demon tonight.
 ![Exorcist](https://wiki.bloodontheclocktower.com/images/c/c2/Icon_exorcist.png) | **Exorcist** | Each night\*, choose a player (different to last night): the Demon, if chosen, learns who you are then doesn't wake tonight.
 
