@@ -20,7 +20,7 @@ Icon | Character | Text
 Icon | Character | Text
 --- | --- | ---
 ![Saint](https://wiki.bloodontheclocktower.com/images/c/c9/Icon_saint.png) | **Saint** | If you die by execution, your team loses.
-![Politician](https://wiki.bloodontheclocktower.com/images/a/a3/Icon_politician.png) | **Politician** | If you were the player most responsible for your team losing, you change alignment & win, even if dead.
+![Zealot](https://wiki.bloodontheclocktower.com/images/1/16/Icon_zealot.png) | **Zealot** | If there are 5 or more players alive, you must vote for every nomination.
 
 ### Minion
 
